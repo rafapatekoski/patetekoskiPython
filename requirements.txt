@@ -1,0 +1,4 @@
+python_version >=3.8,<3.11
+pywin32==306
+pandas==2.1.4
+streamlit==1.26.0
